@@ -250,8 +250,8 @@ hr {
 	margin-left: 0.1em;
 	font-size: .8em;
 }
-/* Portfolio Section */
-#portfolio {
+/* hobbies Section */
+#hobbies {
 	padding: 80px 0;
 	background: #ffffff; /* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* FF3.6+ */
@@ -317,7 +317,7 @@ ol.type li a:hover {
 	-moz-transition-property: -moz-transform, opacity;
 	transition-property: transform, opacity;
 }
-.portfolio-item {
+.hobbies-item {
 	margin: 15px 0;
 	-webkit-transition: all 0.5s ease-out;
 	-moz-transition: all 0.5s ease-out;
@@ -325,19 +325,19 @@ ol.type li a:hover {
 	-o-transition: all 0.5s ease-out;
 	transition: all 0.5s ease-out;
 }
-.portfolio-item:hover {
+.hobbies-item:hover {
 	-webkit-transform: scale(1.1);
 	-moz-transform: scale(1.1);
 	-ms-transform: scale(1.1);
 	-o-transform: scale(1.1);
 	transform: scale(1.1);
 }
-.portfolio-item .hover-bg {
+.hobbies-item .hover-bg {
 	height: 260px;
 	overflow: hidden;
 	position: relative;
 }
-.hover-bg .hover-text {
+.hobbies-bg .hover-text {
 	position: absolute;
 	text-align: center;
 	margin: 0 auto;
@@ -378,13 +378,13 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#portfolio i.fa {
+#hobbies i.fa {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
 }
 /* Achivements Section */
-#achievements {
+/*#achievements {
 	padding: 100px 0;
 	background: #7bc3d1;
 }
@@ -407,7 +407,7 @@ ol.type li a:hover {
 	color: #121d1f;
 	padding: 0;
 	margin: 0;
-}
+}*/
 /* Resume Section */
 #resume {
 	padding: 100px 0;
