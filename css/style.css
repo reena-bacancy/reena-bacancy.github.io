@@ -384,14 +384,14 @@ ol.type li a:hover {
 	color: #E87E04;
 }
 /* Achivements Section */
-/*#achievements {
+#project {
 	padding: 100px 0;
 	background: #7bc3d1;
 }
-#achievements h2 {
+#project h2 {
 	color: #fff;
 }
-#achievements hr {
+#project hr {
 	background: rgba(255,255,255,0.3);
 }
 .achievement-box h4 {
@@ -407,7 +407,7 @@ ol.type li a:hover {
 	color: #121d1f;
 	padding: 0;
 	margin: 0;
-}*/
+}
 /* Resume Section */
 #resume {
 	padding: 100px 0;
